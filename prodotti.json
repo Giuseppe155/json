@@ -1,0 +1,27 @@
+	[
+		{
+			"immagine": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Videotelefono_-_Museo_scienza_tecnologia_Milano_12146_03.jpg",
+			"nome": "Telefono",
+			"prezzo": 299.99
+		},
+		{
+			"immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/InEarMonitors.jpg/220px-InEarMonitors.jpg",
+			"nome": "Cuffie",
+			"prezzo": 49.99
+		},
+		{
+			"immagine": "https://upload.wikimedia.org/wikipedia/commons/9/91/Apple_Watch_Ultra_-_2.jpg",
+			"nome": "Smartwatch",
+			"prezzo": 399.99
+		},
+		{
+			"immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Samsung_Galaxy_Z.jpg/800px-Samsung_Galaxy_Z.jpg",
+			"nome": "Tablet",
+			"prezzo": 599.99
+		},
+		{
+			"immagine": "https://upload.wikimedia.org/wikipedia/commons/f/f7/PowerBook_G4_17.jpg",
+			"nome": "PC portatile",
+			"prezzo": 999.99
+		}
+	]
