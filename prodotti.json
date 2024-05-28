@@ -1,27 +1,77 @@
-	[
-		{
-			"immagine": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Videotelefono_-_Museo_scienza_tecnologia_Milano_12146_03.jpg",
-			"nome": "Telefono",
-			"prezzo": 299.99
-		},
-		{
-			"immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/InEarMonitors.jpg/220px-InEarMonitors.jpg",
-			"nome": "Cuffie",
-			"prezzo": 49.99
-		},
-		{
-			"immagine": "https://upload.wikimedia.org/wikipedia/commons/9/91/Apple_Watch_Ultra_-_2.jpg",
-			"nome": "Smartwatch",
-			"prezzo": 399.99
-		},
-		{
-			"immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Samsung_Galaxy_Z.jpg/800px-Samsung_Galaxy_Z.jpg",
-			"nome": "Tablet",
-			"prezzo": 599.99
-		},
-		{
-			"immagine": "https://upload.wikimedia.org/wikipedia/commons/f/f7/PowerBook_G4_17.jpg",
-			"nome": "PC portatile",
-			"prezzo": 999.99
-		}
-	]
+[
+    {
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Videotelefono_-_Museo_scienza_tecnologia_Milano_12146_03.jpg",
+        "nome": "Telefono",
+        "prezzo": 299.99
+    },
+    {
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/InEarMonitors.jpg/220px-InEarMonitors.jpg",
+        "nome": "Cuffie",
+        "prezzo": 49.99
+    },
+    {
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/9/91/Apple_Watch_Ultra_-_2.jpg",
+        "nome": "Smartwatch",
+        "prezzo": 399.99
+    },
+    {
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Samsung_Galaxy_Z.jpg/800px-Samsung_Galaxy_Z.jpg",
+        "nome": "Tablet",
+        "prezzo": 599.99
+    },
+    {
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/f/f7/PowerBook_G4_17.jpg",
+        "nome": "PC portatile",
+        "prezzo": 999.99
+    },
+    {
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/6/60/Canon_EOS_5D_Mark_IV.jpg",
+        "nome": "Fotocamera",
+        "prezzo": 1499.99
+    },
+    {
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/3/35/JBL_Charge_3.jpg",
+        "nome": "Speaker Bluetooth",
+        "prezzo": 199.99
+    },
+    {
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/e/e8/External_Hard_Drive.jpg",
+        "nome": "Hard Disk Esterno",
+        "prezzo": 89.99
+    },
+    {
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/9/97/DSC01216_Microsoft_Surface_Pro_4.jpg",
+        "nome": "Microsoft Surface Pro",
+        "prezzo": 1199.99
+    },
+    {
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/3/30/GoPro_Hero_8_Black.jpg",
+        "nome": "Action Camera",
+        "prezzo": 349.99
+    },
+    {
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Amazon_Echo_Dot_4th_Generation.jpg",
+        "nome": "Smart Speaker",
+        "prezzo": 59.99
+    },
+    {
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/4/41/Western_Digital_Elements_25A3.jpg",
+        "nome": "SSD Esterno",
+        "prezzo": 129.99
+    },
+    {
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/1/1d/MacBook_Pro_16-inch.jpg",
+        "nome": "MacBook Pro",
+        "prezzo": 2399.99
+    },
+    {
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Apple_AirPods.jpg",
+        "nome": "AirPods",
+        "prezzo": 199.99
+    },
+    {
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/5/53/Nikon_D850.jpg",
+        "nome": "Nikon D850",
+        "prezzo": 2799.99
+    }
+]
